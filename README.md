@@ -10,4 +10,4 @@
 check out my stuff!!:
 
 [![9xGen](https://github-readme-stats.vercel.app/api/pin/?username=usrbinluna&repo=9xGen&theme=omni)](https://github.com/UsrBinLuna/9xGen)
-[![device_lenovo_achilles6](https://github-readme-stats.vercel.app/api/pin/?username=usrbinluna&repo=device_lenovo_achilles6&theme=omni)](https://github.com/UsrBinLuna/device_lenovo_achilles6)
+[![Mao](https://github-readme-stats.vercel.app/api/pin/?username=MaoZedong-Bot&repo=Mao&theme=omni)](https://github.com/MaoZedong-Bot/Mao)
