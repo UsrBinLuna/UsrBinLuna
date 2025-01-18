@@ -5,7 +5,9 @@
 
 🌈 she/they, demigirl therian,
 
-🐾 dabbles in javascript, python and bash
+🐾 dabbles in javascript, python and bash<
+
+ctc me: discord @echo.the.lynx
 
 check out my stuff!!:
 
