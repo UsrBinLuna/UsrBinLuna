@@ -1,13 +1,13 @@
 # hey, i'm luna
 ![UsrBinLuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrbinluna&theme=omni&show_icons=true)
 
-🦊 furry, really silly,
+🦊 really silly
 
-🌈 she/they, demigirl therian,
+🌈 she/they therian,
 
-🐾 dabbles in javascript, python and bash
+🐾 dabbles in javascript, python, bash & c/c++
 
-ctc me: discord @echo.the.lynx
+ctc me: discord @juni.the.lynx
 
 check out my stuff!!:
 
