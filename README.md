@@ -3,8 +3,6 @@
 
 🦊 really silly
 
-🌈 she/they,
-
 🐾 dabbles in javascript, c#, python, bash, and c/c++
 
 ctc me: discord @juni.the.lynx
