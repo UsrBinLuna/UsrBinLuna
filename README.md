@@ -3,8 +3,8 @@
 
 🦊 really silly
 
-🌈 she/they therian,
+🌈 she/they,
 
-🐾 dabbles in javascript, python, bash & c/c++
+🐾 dabbles in javascript, c#, python, bash, and c/c++
 
 ctc me: discord @juni.the.lynx
